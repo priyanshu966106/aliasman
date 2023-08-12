@@ -19,5 +19,5 @@ You can also download it from the [Snapstore](https://snapcraft.io/) directly or
 
 ## Issues
  * You can directly create issues here 
- * You can submit your issues at https://forms.gle/ekixL7BAvSRCPjur7
+ * You can submit your issues at https://forms.gle/2ghyXJpVFpCwBwub8
 
